@@ -1,0 +1,547 @@
+<!Doctype html>
+<Html>
+<head>
+				<title>Frutas</title>
+<meta charset="utf-8">
+<link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+        
+<style>
+body {
+background-color:#660066; }
+                
+
+#cabecera1 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#009900;
+
+}
+
+#cabecera2 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#009900;
+}
+
+#cabecera3 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#009900;
+}
+
+#cabecera4 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align: center;
+color:#eaeaff;
+background-color:#009900;
+}
+
+#cabecera5 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#009900;
+}
+
+#cabecera6 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#eaeaff;
+background-color:#009900;
+}
+
+
+border-top-width:2px;
+border-right-width:2px;
+border-bottom-width:2px;
+border-left-width:2px;
+
+border-top-style:solid;
+border-right-style:dotted;
+border-bottom-style:solid;
+border-left-style:dotted;
+
+border-top-color:#000000;
+border-right-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#CC0000;
+}
+
+h1{
+border-width:2px;
+border-color:#FFFF00;
+border-style:inset;
+}
+
+h2{
+border-width:4px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h3{
+border-width:2px;
+border-style:groveer;
+border-color:#CC0000;
+}
+h4{
+border-width:70px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h5{
+border-width:2px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h6{
+border-width:2px;
+border-style:grover;
+border-color:#CC0000;
+}
+
+table{
+
+border-width:10px;
+				border-color:#FF6600;
+				
+}
+
+
+ol{
+font-family:"Times New Roman";
+color:#FFCC00;
+}
+
+
+p{
+font-family:"Times New Roman";
+color:#FFFFFF;
+
+}
+
+td{
+font-family:"Times New Roman";
+color:#ffffff;
+
+
+}
+
+ul{
+font-family:"Times New Roman";
+color:#FFCC00;
+}
+</style>
+
+<body>
+		<div id="cabecera1">
+<h1>VENTA DE FRUTAS</h1>
+</div>
+<p>Se denomina fruta a aquellos frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas, suelen consumirse mayormente en su estado fresco, como jugo o como postre (y en menor medida, en otras preparaciones), una vez alcanzada la madurez organoléptica, o luego de ser sometidos a cocción.</p>
+	
+
+
+	<a href="#frutasdulces">Frutas Dulces</a><br>
+								<a href="#frutasacidas">Frutas ácidas</a><br>
+									<a href="#frutascemi-acidas">Frutas semi-ácidas</a><br>
+								<a href="#frutasneutras">Frutas Neutras</a><br>
+								<a href="#frutascurcubitaceas">Frutas Curcubitaceas</a><br>
+
+<p><b>Clasificación de las frutas</b></p>
+
+								
+
+<a name="frutasdulces"></a>
+		<div id="cabecera2">
+<h2>FRUTAS DULCES</h2></div>
+	<ol>
+												<li>PLATANO:</li>
+												<p>El plátano es uno de los alimentos más consumidos en el mundo, y no es para menos, ya que además de su sabor y su alta versatilidad a la hora de preparar múltiples recetas, este alimento contiene una gran cantidad de propiedades que hacen que sea altamente beneficioso para el funcionamiento de nuestro cuerpo y para conservar un buen estado de salud.</p>
+											  				<li>DATILES:</li>
+											  				<p>Los dátiles son una fruta considerada exótica, obtenida de las especies de palmeras Phoenix. Se utiliza ampliamente en elaboraciones de repostería como sustituto de la azúcar refinada, pero además de ser dulce y deliciosa es nutritiva para el organismo. Los beneficios de los dátiles han sido reconocidos por los dietistas y nutricionistas</p>
+																<li>HIGOS:</li>
+																<p>El higo es un fruto de gusto dulce que muchas personas disfrutan a menudo, como parte de alguna merienda o bien como postre. Sin embargo, hay otras que ni siquiera se han animado a integrarlo a su dieta porque desconocen sus beneficios.
+
+</p>
+																<li>UVA PASA:</li>
+																<p>Un exquisito manjar que, además de ser una buena fuente de minerales como calcio, potasio, hierro y magnesio, tiene una gran proporción de fibra insoluble,  que provoca una digestión más lenta, dándote sensación de saciedad durante más tiempo y acelerando el tránsito intestinal.</p>
+																<li>UVA ROJA:</li>
+																<p>Las uvas contienen resveratrol, sustancia que tiene posee propiedades antioxidantes y que solo se encuentra en la uva negra, concretamente en la piel. Potasio y sodio cumplen funciones complementarias. Por eso, un déficit de potasio asociado a un exceso de sodio puede dar lugar a hipertensión arterial.</p>
+																<li>CIRUELAS SECAS:</li>
+																<p>La ciruela pasa (también llamada nudillos en el Perú) es una ciruela desnutrida. Erróneamente se suele englobar dentro de la categoría de los frutos secos, aunque en sí misma realmente es una fruta desecada; del mismo modo que lo son otras fruta que se deshidratan para su consumo, tales como los higos, albaricoques, melocotones, uvas, Zeus, etcétera.
+
+</p>
+																<li>PALOSANTO O CAQUI:</li>
+																<p>El caqui también llamado palosanto o persimón (el caqui duro) es una fruta originaria de China y Japón. El caqui tiene un sabor dulce, es de color naranja o rojizo y de pulpa carnosa, y por su alto valor nutritivo y su alto contenido en agua lo hacen ideal para desintoxicar el organismo.
+
+Los caquis se pueden consumir con la pulpa blanda y madura, o con la pulpa dura, los llamados persimón. La variedad de caquis rojos reciben el nombre de persimón tras ser sometidos a un tratamiento que consiste en recolectar los frutos aún sin madurar y conservarlos en torno a 20 °C entre 2 y 4 días en cámaras con una atmósfera controlada. El persimón presenta un color anaranjado y su textura es más firme, lo que permite su comercialización y exportación.</p>
+														  <li>CEREZAS:</li>
+														  <p>Cereza y guinda son los nombres del fruto de varios árboles del género Prunus, aunque comercialmente se aproveche un número limitado de especies. Al árbol se le conoce como cerezo o guindo. Si bien todos los cerezos son del género Prunus, a este género también pertenecen especies que no lo son, y destacan por producir frutos de mayor tamaño, como son el ciruelo, el almendro, el albaricoquero o damasco y el melocotonero o duraznero.</p>
+														  <li>TUNAS:</li>
+														  <p>Opuntia ficus-indica, comúnmente conocida, entre otros nombres, como nopal, higuera (de pala), palera, tuna,[2]​ chumbera, es una especie arbustiva del género Opuntia de la familia de las cactáceas.
+
+Symbol question.svg </p>
+														  <li>LUCUMA:</li>
+														  <p>El lúcumo (Pouteria lucuma) es la especie más extendida y comercialmente más valiosa del género Pouteria. Es un árbol de la familia de las sapotáceas, originaria y nativa de los valles andinos del Ecuador, Perú, Bolivia y Chile[1]​[2]​ que se cultiva por su fruto llamado lúcuma empleado en gastronomía, especialmente en la peruana y chilena sobre todo en la preparación de dulces, postres y helados.</p>
+														  <li>LITCHI:</li>
+														 <p> Litchi chinensis, conocido normalmente como lichi o lechias,[2]​ es un árbol frutal tropical originario del sur de China. Es el único representante del género Litchi.
+
+Symbol question.svg </p>
+														  <li>YACA:</li>
+														  <p>El árbol de yaca, nanca,[1]​ nanjea[2]​ o panapén (Artocarpus heterophyllus Lam.) es una especie vegetal perteneciente a la familia de las moráceas. Es originaria de Indonesia, aunque también se cree que pudo ser originaria de la India. Asimismo, en Asia se encuentra la mayor diversidad genética entre las miles de islas, de acuerdo con muchos investigadores en botánica y dispersión genética. También se distribuye al sur y sudeste de Asia. Este árbol produce la fruta nacional de Bangladés y de Indonesia. Posee grandes similitudes con el árbol del pan (Artocarpus altilis), originario de Indonesia y Melanesia.</p>
+														  <li>CAÑA DE AZÚCAR:</li>
+														  <p>Saccharum officinarum, habitualmente conocida como caña de azúcar, cañaduz o simplemente caña, es una especie de planta perteneciente a la familia de las poáceas.
+
+Symbol question.svg Saccharum </p>
+														  
+												</ol>
+<table border="2">
+		<tr>
+		<td>FRUTA</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Platano</td><td>10 lps</td>
+		</tr>
+		<tr>
+		<td>Datiles</td><td>20 lps</td>
+		</tr>
+		<tr>
+		<td>Higos</td><td>20 lps</td>			
+		</tr>
+		<tr>
+		<td>Uva pasa</td><td>15 lps</td>			
+		</tr>
+		<tr>
+		<td>Uva roja</td><td>15 lps</td>		
+		</tr>
+		<tr>
+		<td>Ciruelas secas</td><td>10 lps</td>
+		</tr>
+		<tr>
+		<td>Palosanto o caqui</td><td>20 lps</td>			
+		</tr>
+		<tr>
+		<td>Cerezas</td><td>15 lps</td>		
+		</tr>
+		<tr>
+		<td>Tunas</td><td>5 lps</td>
+		</tr>
+		<tr>
+		<td>Lúcuma</td><td>10 lps</td>
+		</tr>
+		<tr>
+		<td>Litchi</td><td>20 lps</td>
+		</tr>
+		<tr>
+		<td>Yaca</td><td>16 lps</td>
+		</tr>
+		<tr>
+		<td>Caña de azúcar</td><td>18 lps</td>
+
+		</tr>
+	
+		<table border="2">
+		<tr>
+		<td>FRUTA</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Naranja</td><td>20 lps</td>
+		</tr>
+		<tr>
+		<td>Mandarina</td><td>25 lps</td>
+		</tr>
+		<tr>
+		<td>Toronja</td><td>15 lps</td>			
+		</tr>
+		<tr>
+		<td>Lima</td><td>23 lps</td>			
+		</tr>
+		<tr>
+		<td>Limón</td><td>10 lp</td>		
+		</tr>
+		<tr>
+		<td>Granada</td><td>12 lps</td>
+		</tr>
+		<tr>
+		<td>Fresa</td><td>25 lps</td>			
+		</tr>
+		<tr>
+		<td>Frambuesas</td><td>25 lps</td>		
+		</tr>
+		<tr>
+		<td>Kiwi</td><td>15 lps</td>
+		</tr>
+		<tr>
+		<td>Maracuya</td><td>15 lps</td>
+		</tr>
+		<tr>
+		<td>Manzana</td><td>15 lps</td>
+		</tr>
+		<tr>
+		<td>Guayaba</td><td>5 lps</td>
+		</tr>
+					<li>Frutas Dulces</li>
+				<a href=""><img src="frutas dulces.jpg" alt="frutas dulces"></a>
+
+			
+		<a name="frutasacidas"></a>
+				<div id="cabecera3">
+<h3>FRUTAS ÁCIDAS</h3></div>
+	<ol>
+															<li>NARANJA:</li>
+															<p>La naranja es una fruta cítrica obtenida del naranjo dulce (Citrus × sinensis), del naranjo amargo (Citrus × aurantium) y de naranjos de otras variedades o híbridos, de origen asiático.[1]​ Es un hesperidio carnoso de cáscara más o menos gruesa y endurecida, y su pulpa está formada típicamente por once gajos u hollejos llenos de jugo, el cual contiene mucha vitamina C, flavonoides y aceites esenciales. Se cultiva como un antiguo árbol ornamental y para obtener fragancias de sus frutos. Es más pequeña y dulce que el pomelo o toronja y más grande, aunque menos perfumada que la mandarina. Existen numerosas variedades de naranjas, siendo la mayoría híbridos producidos a partir de las especies Citrus maxima (pamplemusa), Citrus reticulata (mandarina) y Citrus medica (cidro).
+
+Naranja</p>
+																<li>MANDARINA:</li>
+																<p>La mandarina es el fruto [1]​ de las diferentes especies de cítricos llamados comúnmente mandarino, entre ellas Citrus reticulata, Citrus unshiu, Citrus × reshni, así como sus híbridos, incluyendo Citrus × tangerina, cuya taxonomía está discutida.[2]​ Pertenece al grupo de frutos llamados hesperidios y su pulpa está formada por un considerable número de gajos llenos de zumo o jugo, el cual contiene mucha vitamina C, flavonoides y aceites esenciales</p>
+																<li>TORONJA:</li>
+																<p>El árbol del pomelo o toronja (Citrus × paradisi) es una planta del género Citrus, de la familia de las rutáceas, cultivado por su fruta, el pomelo o toronja. Es un híbrido, probablemente producido de manera espontánea entre la pampelmusa y la naranja dulce (Citrus × sinensis) en las plantaciones del mar Caribe alrededor del siglo XVII.</p>
+																<li>LIMA:</li>
+																<p>Lima es un nombre genérico por el que se conocen varias frutas cítricas similares entre sí, de diversas especies de árboles frutales. A menudo se refieren a la lima ácida (Citrus × aurantifolia), llamada limón en las islas del Caribe, Centroamérica, Colombia, Ecuador, México, Perú y Venezuela.[1]​ En cambio, en España y el Cono Sur, «limón» (del andalusí limún) se refiere al amarillo (el más común) y «lima» (del andalusí limu) para el verde. Lo mismo ocurre en inglés (lemon para el amarillo, lime para el verde) y en la mayoría de idiomas. Esta distinción en el español puede deberse al factor climático: en los países tropicales se puede cultivar la lima (verde) mientras que en España y el Cono Sur se ha adaptado mejor el limón (amarillo) a sus climas fríos.</p>
+																<li>LIMON:</li>
+																<p>Citrus × limon, el limonero, es un pequeño árbol frutal perenne. Su fruto es el limón (en árabe, ليمون‎, laimún, del persa laimú o laimún)[1]​ o citrón,[2]​ una fruta comestible de sabor ácido y extremadamente fragante que se usa principalmente en la alimentación. La mayoría de las variedades producen frutos durante todo el año. La madera de limonero se utiliza en ebanistería.</p>
+																<li>GRANADA:</li>
+																<p>Punica granatum, llamado comúnmente granado, es una especie de la familia Lythraceae, cuyo fruto es la granada. Nativo de la región desde Irán hasta el Himalaya, se ha cultivado desde la antigüedad por toda la cuenca mediterránea.[1]​
+
+Symbol question.svg </p>
+																<li>FRESA:</li>
+																<p>Fragaria × ananassa, llamada comúnmente fresa, fresón, fresibaya o ffrutillas y sus cultivares emparentados, es la variedad más común de Fragaria cultivada mundialmente. Como todas las fresas, es de la familia Rosaceae; su fruta es técnicamente conocida como infrutescencia, ya que la parte carnosa no se deriva del ovario de la planta (aquenio), sino del hipantio que sostiene los ovarios.
+
+Symbol question.svg Fragaria</p>
+														  <li>FRAMBUESA:</li>
+														  <p>La frambuesa es el fruto del frambueso o sangüeso. Esta planta crece silvestre en diversas regiones de Europa, aunque también se cultiva, siendo su cultivo bastante importante. Es una fruta pequeña, cónica o redondeada con una piel aterciopelada de color rojo o amarillento. La pulpa es muy aromática y su sabor es agridulce. Se puede consumir cruda o emplearse para elaborar mermeladas, jaleas y bebidas. También se puede encontrar congelada.</p>
+
+<p>Las frambuesas aportan potasio, hierro y calcio. Tienen un bajo contenido en sodio. Destaca su contenido en vitaminas B3, C y ácido fólico, aunque también aporta vitaminas A, B1, B2 y B6.</p>
+														  <li>KIWI:</li>
+														  <p>El kiwi es la baya de la enredadera Actinidia deliciosa. Es originaria de una gran área de China, sobre todo de los bosques del valle del río Yangtsé. Introducida en Nueva Zelanda en 1904, fue cultivada desde entonces en muchas regiones templadas por su fruto comestible. Es una de las frutas con mayor concentración de vitamina C.
+
+</p>
+														  <li>MARACUYÁ:</li>
+														  <p>La pasionaria (Passiflora edulis) es una planta trepadora, propia de Sudamérica y Centroamérica; específicamente, se considera nativa de la amazonía de Rep. Dom, Perú, Colombia, Ecuador, Venezuela, Brasil, Paraguay, Bolivia, Uruguay y del norte de Argentina.[1]​ Pertenece al género Passiflora y su fruto comestible, de color amarillo o púrpura, es el maracuyá,[2]​ (del tupí mara kuya, "fruto que se utiliza" o "alimento en la calabaza").
+
+Symbol question.svg Pasionaria (Passiflora </p>
+														  <li>MANZANA:</li>
+														  <p>La manzana es el fruto comestible de la especie Malus domestica, el manzano común. Es una fruta pomácea de forma redonda y sabor muy dulce, dependiendo de la variedad.
+
+</p>
+														  <li>GUAYABA:</li>
+														  <p>Las guayabas (Psidium) son un género de unas cien especies de árboles tropicales y árboles pequeños en la familia Myrtaceae, nativas de América. Las hojas son opuestas, simples, elípticas a ovaladas, de 5 a 15 centímetros de largo. Las flores son blancas, con cinco pétalos y numerosos estambres.
+
+Symbol question.svg </p>
+														 
+												</ol>
+
+		<table border="2">
+	  <tr>
+		<td>FRUTA</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Papaya</td><td>20 lps</td>
+		</tr>
+		<tr>
+		<td>Durazno</td><td>12 lps</td>
+		</tr>
+		<tr>
+		<td>Mango</td><td>15 lps</td>			
+		</tr>
+		<tr>
+		<td>Mora</td><td>15 lps</td>			
+		</tr>
+		<tr>
+		<td>Arándanos</td><td>20 lps</td>		
+		</tr>
+		<tr>
+		<td>Cerezas</td><td>20 lps</td>
+		</tr>
+		<tr>
+		<td>Pera</td><td>10 lps</td>			
+		</tr>
+		<tr>
+		<td>Damasco</td><td>15 lps</td>			
+		</tr>
+		<tr>
+		<td>Fresas</td><td>25 lps</td>
+		</tr>
+		<tr>
+		<td>Guanabana</td><td>18 lps</td>
+		</tr>
+		<tr>
+		<td>Uvas verdes</td><td>25 lps</td>
+		</tr>
+		<tr>
+		<td>Manzana</td><td>15 lps</td>
+		</tr>	
+				<li>Frutas ácidas</li>
+			<a href=""><img src="frutas ácidas.jpg" alt="frutas ácidas"></a>
+		<a name="frutascemi-acidas"></a>
+				<div id="cabecera4">
+<h4>FRUTAS SEMI-ÁCIDAS </h4>		</div>
+	<ol>
+													<li>PAPAYA:</li>
+													<p>Carica papaya es una planta herbácea del género Carica en la familia Caricaceae. Su fruto se conoce comúnmente como papaya, papayón, fruta bomba, olocotón, papayo, mamón, lechosa o lechoza.[cita requerida]</p>
+																<li>DURAZNO:</li>
+																<p>Prunus persica, originalmente Amygdalus persica L., melocotonero (del latín malus cotonus, «manzana algodonosa» —en alusión a la piel del fruto—)[3]​ es una especie de árbol del género Prunus de la familia Rosaceae. También se suele denominar duraznero (del latín durus acinus, «que tiene la piel dura» —aludiendo a la piel del fruto—) y a su fruto, durazno en países latinoamericanos y en castellano antiguo albérchigo (del árabe al-pérsico).
+
+Symbol question.svg </p>
+																<li>MANGO:</li>
+																<p>El mango (llamado mangó en Puerto Rico y mangüeña[1]​ en Guinea Ecuatorial) es el nombre de las frutas de varias especies de árboles del género Mangifera, especialmente de Mangifera indica, y sus numerosos cultivares.
+
+</p>
+																<li>MORA:</li>
+																<p>Mora es el nombre que reciben diversos frutos comestibles de distintas especies; cuya fruta no es una baya, sino un eterio, compuesto de pequeños drupas, que le da una forma en común a este grupo de frutas.
+
+</p>
+																<li>ARÁNDANOS:</li>
+																<p>El nombre arándano rojo hace referencia al fruto de un grupo de arbustos enanos perennes del género Vaccinium, subgénero Oxycoccus, aunque algunos botánicos consideran Oxycoccus un género aparte. Crecen en turberas de carácter ácido en las zonas más frías del Hemisferio Norte.
+
+Symbol question.svg </p>
+																<li>CEREZA:</li>
+																<p>Cereza y guinda son los nombres del fruto de varios árboles del género Prunus, aunque comercialmente se aproveche un número limitado de especies. Al árbol se le conoce como cerezo o guindo. Si bien todos los cerezos son del género Prunus, a este género también pertenecen especies que no lo son, y destacan por producir frutos de mayor tamaño, como son el ciruelo, el almendro, el albaricoquero o damasco y el melocotonero o duraznero.
+
+Cereza</p>
+																<li>PERA:</li>
+																<p>Se denomina pera al fruto de distintas especies del género Pyrus, integrado por árboles caducifolios conocidos comúnmente como perales.[1]​ Sin embargo, cuando se trata del fruto comestible, se hace referencia mayormente al producido por el llamado peral común (Pyrus communis). La pera es una fruta jugosa, carnosa y una de las más importantes producidas en las regiones templadas.[2]​
+
+</p>
+														  <li>DAMASCO:</li>
+														  <p>El damasco o albaricoque es una fruta redonda de sabor dulce y color amarillo, parecida al durazno o melocotón, pero más pequeño y blando, que se caracteriza por su contenido de vitamina C, hierro (combate la anemia) potasio (lo que lo hace una fruta diurética) magnesio y betacaroteno (con enormes beneficios para la salud de la piel y la vista). Es excelente para el sistema inmunológico, para el respiratorio y el circulatorio, y como antioxidante y aliado de la longevidad; proporciona energía, alivia el stress, regula la presión arterial, y hasta se dice que previene el cáncer. Ayuda a fortalecer los huesos y nos mantiene activos pero serenos. Aporta mucho más vitamina A, potasio y magnesio que el durazno</p>
+														<li>FRESAS:</li>
+														<p>Fragaria, llamado comúnmente fresa o frutilla, es un género de plantas rastreras estoloníferas de la familia Rosaceae. Agrupa unos 400 taxones descritos, de los cuales solo unos 20 están aceptados.[1]​ Son cultivadas por su fruto comestible (eterio) llamado de la misma manera, fresa o frutilla. Las variedades cultivadas comercialmente son por lo general híbridos, en especial Fragaria × ananassa, que ha reemplazado casi universalmente a las especies silvestres locales, como la eurasiática Fragaria vesca, por el superior tamaño de sus frutos.
+
+Symbol question.svg Fresa</p>
+														<li>GUANÁBANA:</li>
+														<p>Annona muricata, la guanábana[3]​ —nombre de origen taíno— o graviola[4]​ es un árbol de la familia Annonaceae. Originario de Sudamérica, se cultiva por sus frutos comestibles en muchos países de clima tropical.
+
+Symbol question.svg </p>
+														<li>UVAS VERDES:</li>
+														<p>Las uvas verdes tienen el beneficio de que se encuentran disponibles todo el año, son ricas en carbohidratos y bajas en grasas saturadas. ... Además, las uvas verdes tienen catequinas y, como todas las uvas, resveratrol, dos potentes antioxidantes que nos protegen de los radicales libres y de diferentes enfermedades.</p>
+														<li>MANZANA</li> 
+														<p>La manzana es el fruto comestible de la especie Malus domestica, el manzano común. Es una fruta pomácea de forma redonda y sabor muy dulce, dependiendo de la variedad.
+
+</p>
+												</ol>
+
+												</div>
+
+<table border="2">
+<tr>
+		<td>FRUTA</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Aguacate</td><td>5 lps</td>
+		</tr>
+		<tr>
+		<td>Coco</td><td>10 lps</td>
+		</tr>
+		<tr>
+		<td>Aceitunas</td><td>20 lps</td>			
+		</tr>
+		<tr>
+		<td>Nueces</td><td>30 lps</td>			
+		</tr>
+		<tr>
+		<td>Almendras</td><td>30 lps</td>		
+		</tr>
+		<tr>
+		<td>Avellanas</td><td>25 lps</td>	
+		</tr>
+		<tr>
+		<td>Cacahuate</td><td>25 lps</td>			
+		</tr>
+		<tr>
+		<td>Damasco</td><td>20 lps</td>	
+		</tr>
+				<li>Frutas semi-ácidas</li>
+			<a href=""><img src="frutas semi-ácidas.jpg" alt="frutas semi-ácidas"></a>
+		<a name="frutasneutras"></a>
+				<div id="cabecera5">
+<h5>FRUTAS NEUTRAS</h5></div>
+	<ol>
+													<li>AGUACATE:</li>
+													<p>Persea americana, llamado popularmente aguacate,[2]​[3]​[4]​ palto (Argentina, Bolivia, Chile, Perú y Uruguay)[5]​[6]​ o aguacatero (República Dominicana, Puerto Rico y Venezuela),[7]​ es una especie arbórea del género Persea perteneciente a la familia Lauraceae, cuyo fruto, el aguacate[2]​[3]​ o palta,[8]​[9]​ es una baya comestible.[10]​ Es una especie originaria de Mesoamérica, específicamente de las partes altas del centro y este de México, Guatemala y El Salvador. Las evidencias más antiguas de su uso se encontraron en Coaxcatlán (México) y datan de hace unos 10 000 años.[10]​[11]​[12]​ Actualmente, la especie se cultiva en lugares con climas tropical y mediterráneo en todo el mundo. La gran demanda de aguacate ha hecho que sus plantaciones transformen grandes extensiones de ecosistemas nativos.</p>
+																<li>COCO:</li>
+																<p>El coco es una fruta (drupa) obtenida principalmente de la especie tropical cocotero (Cocos nucifera), la palmera más cultivada a nivel mundial. Tiene una cáscara exterior gruesa (exocarpio), una capa intermedia fibrosa (mesocarpio) y otra interior dura, vellosa y marrón (endocarpio); que tiene adherida la pulpa blanca y aromática (endospermo). Mide de 20 a 30 cm y llega a pesar 2.6 kg.
+
+</p>
+																<li>ACEITUNAS:</li>
+																<p>La aceituna[1]​ u oliva[2]​ es el fruto del olivo. La planta procede de Grecia y Asia Menor, donde todavía pueden hallarse en bosques de olivos silvestres o «acebuches», donde no tiene el característico alineamiento regular propio de las plantas cultivadas. Las aceitunas se consumen tanto molidas (como aceite) como en fresco pasando primero por un proceso de maceración que elimina el sabor amargo que tienen debido a un glucósido conocido como oleuropeína, o luego de un proceso de curado del fruto. En España son muy populares las aceitunas aliñadas tomadas como aperitivo.</p>
+																<li>NUECES:</li>
+																<p>En botánica, el término nuez (o núcula) se aplica a un fruto seco indehiscente (aquenio), monospermo y con un pericarpio duro que deriva de un ovario ínfero cuya pared está endurecida.[1]​
+
+</p>
+																<li>ALMENDRAS:</li>
+																<p>La almendra es el fruto del almendro (Prunus dulcis). Posee una película de color canela que la envuelve además de una cáscara exterior que no es comestible, que representa un peso importante de la almendra, y una piel verde que se va secando. Por ello la parte comestible (el fruto seco) de este se reduce al 40 % es decir solo la semilla.[2]​
+
+</p>
+																<li>AVELLANAS:</li>
+																<p>La avellana es el fruto de tipo nuez del avellano común, Corylus avellana. Etimológicamente proviene del latín nux abellana, «fruto seco o nuez de Avella», pueblo de la provincia italiana de Avellino. Tiene forma esferoidal, con un diámetro aproximado de 10 a 15 mm. Está formada por una cáscara fibrosa externa que rodea una cubierta lisa en la que se aloja la semilla. La cáscara fibrosa se seca durante la maduración.
+
+</p>
+																<li>CACAHUATES:</li>
+																<p>Arachis hypogaea, comúnmente conocida como cacahuate, caguate, cacahuete o maní, es una legumbre de la familia de las Fabaceae (fabáceas) cuyos frutos de vaina —se asocian popularmente por su morfología a los frutos secos—[1]​ contienen semillas apreciadas en la gastronomía.
+
+Symbol question.svg </p>
+														  <li>DAMASCO:</li>
+														  <p>El damasco o albaricoque es una fruta redonda de sabor dulce y color amarillo, parecida al durazno o melocotón, pero más pequeño y blando, que se caracteriza por su contenido de vitamina C, hierro (combate la anemia) potasio (lo que lo hace una fruta diurética) magnesio y betacaroteno (con enormes beneficios para la salud de la piel y la vista). Es excelente para el sistema inmunológico, para el respiratorio y el circulatorio, y como antioxidante y aliado de la longevidad; proporciona energía, alivia el stress, regula la presión arterial, y hasta se dice que previene el cáncer. Ayuda a fortalecer los huesos y nos mantiene activos pero serenos. Aporta mucho más vitamina A, potasio y magnesio que el durazno.</p>
+														
+												</ol>
+												<table border="2">
+<tr>
+		<td>FRUTA</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Melones</td><td>18 lps</td>
+		</tr>
+		<tr>
+		<td>Sandía</td><td>20 lps</td>
+		</tr>
+		<tr>
+		<td>Zapallo</td><td>15 lps</td>			
+		</tr>
+		<tr>
+		<td>Calabazas</td><td>20 lps</td>			
+		</tr>
+		
+												
+	<li>Frutas neutras</li>
+			<a href=""><img src="frutas neutras.jpg" alt="frutas neutras"></a>
+			<a name="frutascurcubitaceas"></a>
+					<div id="cabecera6">
+<h6>FRUTAS CURCUBITÁCEAS</h6></div>
+	<ol>
+																
+											<li>MELON</li>	<p>17 de mayo de 2018
+El melón es una planta herbácea de porte rastrero o trepador de nombre cientí­fico Cucumis melo L.  Pertenece al grupo de las cucurbitáceas, como el pepino, sandía, calabacita, entre otros; su condición de producción la determina como hortaliza; sin embargo, por su consumo se le considera como fruta.</p>
+
+
+<p>Se desarrolla mejor en climas cálidos y no excesivamente húmedos. La planta no es muy exigente en suelo, sin embargo, proporciona mejores resultados en aquellos ricos en materia orgánica, profundos, reblandecidos, bien drenados, con buena aireación y pH comprendido entre 6 y 7.</p>
+<li>SANDIA:</li>
+<p>Citrullus lanatus, comúnmente llamada sandía, acendría, sindria, patilla, aguamelón o melón de agua, es una especie de la familia Cucurbitaceae. Es originaria de África con una gran presencia y difusión en todo el mundo. Se cultiva de manera extendida por todo el mundo debido a su fruto, el cuál es un pepónide de enorme tamaño —el récord entre las frutas fue una sandía de 120 kg.[2]​</p>
+																<li>ZAPALLO:</li>
+																<p>Cucurbita maxima es el nombre científico de una especie de plantas cucurbitáceas originaria de zonas templadas del sur de América, que junto con otras especies emparentadas (Cucurbita pepo, C. moschata, C. argyrosperma) forman un grupo de especies de calabazas cuyas variedades cultivadas, de las que se cosecha su fruto maduro o inmaduro, poseen usos culinarios indistinguibles (son los zapallos, calabacines, zapallitos, auyamas, ahuyamas, pipianes, ayotes, etc.). Es la especie a la que pertenecen las variedades de fruto más grande, entre las que se encuentran las calabazas gigantes utilizadas en los concursos de tamaños, y en el Cono Sur de América la variedad "zapallito" (Cucurbita maxima var. zapallito) es la más consumida inmadura como verdura de estación. Posee una subespecie silvestre, Cucurbita maxima subsp. andreana (a veces encontrada con su nombre binomial y anterior nombre de especie, Cucurbita andreana), que se distribuye desde el centro de Argentina hasta Uruguay, de la que incluso desde varios kilómetros de distancia puede llegar el polen a las variedades cultivadas de su propia especie haciendo que sus semillas se desarrollen como plantas de fruto amargo y no comestible. No hibrida con las demás especies.
+
+</p>
+																<li>CALABAZAS:</li>
+																<p>La calabaza es una baya de cáscara dura. Es el fruto de las cucurbitáceas (del género Cucurbita) y es un fruto de tipo pepónide. Algunos autores también incluyen a los frutos del género Lagenaria, y a los frutos de las plantas de la familia de las bignoniáceas, como los "árboles de calabazas" Crescentia y Amphitecna. Las calabazas se encuentran tanto de manera silvestre como cultivada. Las calabazas, incluidas las silvestres, son de tamaño grande, de más de 5 cm de diámetro. Presentan una gran variedad de formas, tamaños, texturas, sabores y colores. Los frutos se pueden cosechar tanto maduros como inmaduros, dependiendo del uso final que se le de al fruto.
+
+</p></ol> 
+	<table ="2">
+
+		<li>Frutas Curcubitaceas</li>
+		<a href=""><img src="frutas curcubitáceas.jpg" alt="frutas curcubitáceas"></a>
+									
+</body>
+</head>
+</html>
